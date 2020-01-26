@@ -1,0 +1,13 @@
+﻿one
+two
+THREE
+
+Orange
+APPLE
+mANGO
+
+This
+is 
+a 
+new 
+ LINE
